@@ -6,3 +6,5 @@ Teacher (Kent Kaiser) created this as a remix of the Barnabas bot basics project
 Remix additions include:
 - 3D printed enclosure
 - IR sensor to sense the train
+
+Video of gate in action: https://www.youtube.com/watch?v=bWuli3N5wUo
