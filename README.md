@@ -12,4 +12,4 @@ Video of gate in action: https://www.youtube.com/watch?v=bWuli3N5wUo
 Materials Used:
 - 3D prints (CAD files available here)
 - Bot Basics Kit: https://shop.barnabasrobotics.com/collections/robots-and-coding/products/bot-basics-kit-intro-to-arduino
-- IR Sensor Module: https://shop.barnabasrobotics.com/products/ir-sensor-module?_pos=1&_sid=9d1339bc1&_ss=r
+- IR Sensor Module: https://shop.barnabasrobotics.com/products/ir-sensor-module
